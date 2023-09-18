@@ -1,2 +1,5 @@
 swap-core/node_modules/
 swap-core/build/
+
+swap-sdk/node_modules/
+swap-sdk/dist
